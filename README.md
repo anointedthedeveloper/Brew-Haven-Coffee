@@ -6,7 +6,7 @@ A beautiful, responsive multi-page website for a modern coffee shop built with H
 
 ## 🌐 Live Demo
 
-**Live Website:** [https://anointedthedeveloper.github.io/brew-haven-coffee](https://anointedthedeveloper.github.io/brew-haven-coffee/)
+**Live Website:** [[https://anointedthedeveloper.github.io/brew-haven-coffee/](https://anointedthedeveloper.github.io/Brew-Haven-Coffee/)](https://anointedthedeveloper.github.io/brew-haven-coffee/)
 
 ## 🌟 Features
 
